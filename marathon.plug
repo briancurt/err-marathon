@@ -1,9 +1,0 @@
-[Core]
-Name = Marathon
-Module = marathon
-
-[Python]
-Version = 3
-
-[Documentation]
-Description = Errbot plugin to interact with Marathon applications.
