@@ -1,7 +1,7 @@
 Err plugin - Marathon
 ===
 
-Perform operations (query for status, restart, etc.) over Marathon applications from Errbot. Uses an auth_token. This is especially useful for open source Mesosphere DC/OS.
+Perform operations (query for status, restart, etc.) over Marathon applications from Errbot. Especially useful to use with open source Mesosphere [DC/OS](https://github.com/dcos/dcos).
 
 Requirements
 ---
